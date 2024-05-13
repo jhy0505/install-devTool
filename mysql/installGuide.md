@@ -1,9 +1,9 @@
 # MySQL 설치 방법
      
 ## 1. MySQL 홈페이지 접속
-<a href="https://dev.mysql.com/downloads/installer/" target="_blank">MySQL 다운로드 링크 (https://dev.mysql.com/downloads/installer/)</a>
+[MySQL 다운로드 링크 (https://dev.mysql.com/downloads/installer/)](https://dev.mysql.com/downloads/installer/)
      
-     
+<br/>
      
 ## 2. MySQL installer 다운로드
 ### 2024년 5월 13일 기준 최신 버전 : **8.0.37**
