@@ -23,9 +23,13 @@ No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 
 <br/>
 
 ## 3. 다운로드 완료 후 MySQL Installer 실행
-### 
+### Custom 클릭 후, 우측 하단 Next > 버튼 클릭
+![image7](./images/240515-5.png)
+
+<br/>
+
 <details>
-  <summary><h3>설치 타입</h3></summary>
+  <summary><h3>설치 타입 자세히 보기</h3></summary>
 
   * **Server only** : Installs only the MySQL Server product. ( MySQL 서버만 설치 )
   ![image3](./images/240515-1.png)
@@ -45,3 +49,7 @@ No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 
   * **Custom** : Manually select the products that should be installed on the system. ( 사용자에게 필요한 제품만 설치할 수 있도록 선택 가능 )
   ![image6](./images/240515-4.png)
 </details>
+
+<br/>
+
+### 
