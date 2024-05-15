@@ -92,3 +92,48 @@
 
 ### 우측 하단 'Next >' 버튼 클릭
 ![image11](./images/240515-9.png)
+
+<br/>
+
+### 서버 타입 Development Computer 확인 후, 우측 하단 'Next >' 버튼 클릭
+![image12](./images/240515-10.png)
+
+<br/>
+
+### Authentication Method 권장 옵션 선택 후, 우측 하단 'Next >' 버튼 클릭
+![image13](./images/240515-11.png)
+
+<br/>
+
+### MySQL Root 계정 비밀번호 설정 후, 우측 하단 'Next >' 버튼 클릭
+![image14](./images/240515-12.png)
+
+<br/>
+
+### Windows Service 기본 설정 선택 후, 우측 하단 'Next >' 버튼 클릭
+![image15](./images/240515-13.png)
+
+<br/>
+
+### 우측 하단 'Next >' 버튼 클릭
+![image16](./images/240515-14.png)
+
+<br/>
+
+### 우측 하단 'Execute' 버튼 클릭으로 현재까지 선택한 설정으로 변경
+![image17](./images/240515-15.png)
+
+<br/>
+
+### 우측 하단 'Finish' 버튼 클릭
+![image18](./images/240515-16.png)
+
+<br/>
+
+### 우측 하단 'Next >' 버튼 클릭
+![image19](./images/240515-17.png)
+
+<br/>
+
+### 우측 하단 'Finish' 버튼 클릭으로 MySQL 설치 완료!
+![image20](./images/240515-18.png)
