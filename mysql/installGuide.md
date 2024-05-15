@@ -23,3 +23,16 @@ No thanks, just start my download.를 클릭해서 **로그인 하지 않고 바
 <br/>
 
 ## 3. 다운로드 완료 후 MySQL Installer 실행
+이미지 첨부 예정
+
+<br/>
+
+### 설치 타입
+
+* Server only : Installs only the MySQL Server product. ( MySQL 서버만 설치 )
+![image3](./images/240515-1.png)
+
+<br/>
+
+* Client only : Installs only the MySQL Client products, without a server. ( MySQL 애플리케이션 관리에 필요한 도구만 설치 )
+![image4](./images/240515-2.png)
