@@ -23,25 +23,25 @@ No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 
 <br/>
 
 ## 3. 다운로드 완료 후 MySQL Installer 실행
-
-<br/>
-
 ### 설치 타입
+<details>
+  <summary>자세히</summary>
+  
+  * **Server only** : Installs only the MySQL Server product. ( MySQL 서버만 설치 )
+  ![image3](./images/240515-1.png)
 
-* **Server only** : Installs only the MySQL Server product. ( MySQL 서버만 설치 )
-![image3](./images/240515-1.png)
+  <br/>
 
-<br/>
+  * **Client only** : Installs only the MySQL Client products, without a server. ( MySQL 애플리케이션 관리에 필요한 도구만 설치 )
+  ![image4](./images/240515-2.png)
 
-* **Client only** : Installs only the MySQL Client products, without a server. ( MySQL 애플리케이션 관리에 필요한 도구만 설치 )
-![image4](./images/240515-2.png)
+  <br/>
 
-<br/>
+  * **Full** : Installs all included MySQL products and features. ( 모든 제품 설치 )
+  ![image5](./images/240515-3.png)
 
-* **Full** : Installs all included MySQL products and features. ( 모든 제품 설치 )
-![image5](./images/240515-3.png)
+  <br/>
 
-<br/>
-
-* **Custom** : Manually select the products that should be installed on the system. ( 사용자에게 필요한 제품만 설치할 수 있도록 선택 가능 )
-![image6](./images/240515-4.png)
+  * **Custom** : Manually select the products that should be installed on the system. ( 사용자에게 필요한 제품만 설치할 수 있도록 선택 가능 )
+  ![image6](./images/240515-4.png)
+</details>
