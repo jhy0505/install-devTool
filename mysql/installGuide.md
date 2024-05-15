@@ -12,12 +12,12 @@
 
 <br/>
 
-용량이 큰 걸로 다운로드 받는다.     
+### 설치 파일에 모든 내용이 들어있는 아래쪽 파일 다운로드
 ![image1](./images/240513-1.png)
 
 <br/>
 
-No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 바로 다운로드**</u>
+## 'No thanks, just start my download.'를 클릭해서 <U>로그인 하지 않고 바로 다운로드</U>
 ![image2](./images/240513-2.png)
 
 <br/>
@@ -54,10 +54,10 @@ No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 
 ![image8](./images/240515-6.png)
 
 <details>
-  <summary><h3>사용 가능 제품 자세히 보기</h3></summary>
+  <summary><h3>사용 가능 제품 자세히 보기 및 추가 옵션 설명</h3></summary>
 
   * MySQL Servers
-    * MySQL Server : 데이터 베이스 서버 자체를 의미하면, 가장 핵심 시스템
+    * MySQL Server : 데이터 베이스 서버 자체를 의미하며, 가장 핵심 시스템
 
   <br/>
 
@@ -71,4 +71,24 @@ No thanks, just start my download.를 클릭해서 <u>**로그인 하지 않고 
   * Documentation
     * MySQL Documentation : MySQL 공식 문서 다운로드
     * Samples and Examples : MySQL 샘플 코드와 예제 코드 다운로드
+
+  <br/>
+
+  * Enable the Select Features Page to customize product features   
+    : 설치하는 제품의 더 자세한 설치 프로그램 선택 여부
 </details>
+
+<br/>
+
+### 설치할 목록 확인 후, 우측 하단 'Execute' 버튼 클릭
+![image9](./images/240515-7.png)
+
+<br/>
+
+### 우측 하단 'Next >' 버튼 클릭
+![image10](./images/240515-8.png)
+
+<br/>
+
+### 우측 하단 'Next >' 버튼 클릭
+![image11](./images/240515-9.png)
