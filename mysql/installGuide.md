@@ -17,7 +17,7 @@
 
 <br/>
 
-## 'No thanks, just start my download.'를 클릭해서 <U>로그인 하지 않고 바로 다운로드</U>
+### 'No thanks, just start my download.'를 클릭해서 로그인 하지 않고 바로 다운로드
 ![image2](./images/240513-2.png)
 
 <br/>
