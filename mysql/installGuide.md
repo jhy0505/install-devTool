@@ -13,45 +13,45 @@
 <br/>
 
 ### 설치 파일에 모든 내용이 들어있는 아래쪽 파일 다운로드
-![image1](./images/240513-1.png)
+![image1](/mysql/images/240513-1.png)
 
 <br/>
 
 ### 'No thanks, just start my download.'를 클릭해서 로그인 하지 않고 바로 다운로드
-![image2](./images/240513-2.png)
+![image2](/mysql/images/240513-2.png)
 
 <br/>
 
 ## 3. 다운로드 완료 후 MySQL Installer 실행
 ### Custom 클릭 후, 우측 하단 'Next >' 버튼 클릭
-![image7](./images/240515-5.png)
+![image7](/mysql/images/240515-5.png)
 
 <details>
   <summary><h3>설치 타입 자세히 보기</h3></summary>
 
   * **Server only** : Installs only the MySQL Server product. ( MySQL 서버만 설치 )
-  ![image3](./images/240515-1.png)
+  ![image3](/mysql/images/240515-1.png)
 
   <br/>
 
   * **Client only** : Installs only the MySQL Client products, without a server. ( MySQL 애플리케이션 관리에 필요한 도구만 설치 )
-  ![image4](./images/240515-2.png)
+  ![image4](/mysql/images/240515-2.png)
 
   <br/>
 
   * **Full** : Installs all included MySQL products and features. ( 모든 제품 설치 )
-  ![image5](./images/240515-3.png)
+  ![image5](/mysql/images/240515-3.png)
 
   <br/>
 
   * **Custom** : Manually select the products that should be installed on the system. ( 사용자에게 필요한 제품만 설치할 수 있도록 선택 가능 )
-  ![image6](./images/240515-4.png)
+  ![image6](/mysql/images/240515-4.png)
 </details>
 
 <br/>
 
 ### 다음 이미지와 같이 커스텀 후, 우측 하단 'Next >' 버튼 클릭
-![image8](./images/240515-6.png)
+![image8](/mysql/images/240515-6.png)
 
 <details>
   <summary><h3>사용 가능 제품 자세히 보기 및 추가 옵션 설명</h3></summary>
@@ -81,59 +81,59 @@
 <br/>
 
 ### 설치할 목록 확인 후, 우측 하단 'Execute' 버튼 클릭
-![image9](./images/240515-7.png)
+![image9](/mysql/images/240515-7.png)
 
 <br/>
 
 ### 우측 하단 'Next >' 버튼 클릭
-![image10](./images/240515-8.png)
+![image10](/mysql/images/240515-8.png)
 
 <br/>
 
 ### 우측 하단 'Next >' 버튼 클릭
-![image11](./images/240515-9.png)
+![image11](/mysql/images/240515-9.png)
 
 <br/>
 
 ### 서버 타입 Development Computer 확인 후, 우측 하단 'Next >' 버튼 클릭
-![image12](./images/240515-10.png)
+![image12](/mysql/images/240515-10.png)
 
 <br/>
 
 ### Authentication Method 권장 옵션 선택 후, 우측 하단 'Next >' 버튼 클릭
-![image13](./images/240515-11.png)
+![image13](/mysql/images/240515-11.png)
 
 <br/>
 
 ### MySQL Root 계정 비밀번호 설정 후, 우측 하단 'Next >' 버튼 클릭
-![image14](./images/240515-12.png)
+![image14](/mysql/images/240515-12.png)
 
 <br/>
 
 ### Windows Service 기본 설정 선택 후, 우측 하단 'Next >' 버튼 클릭
-![image15](./images/240515-13.png)
+![image15](/mysql/images/240515-13.png)
 
 <br/>
 
 ### 우측 하단 'Next >' 버튼 클릭
-![image16](./images/240515-14.png)
+![image16](/mysql/images/240515-14.png)
 
 <br/>
 
 ### 우측 하단 'Execute' 버튼 클릭으로 현재까지 선택한 설정으로 변경
-![image17](./images/240515-15.png)
+![image17](/mysql/images/240515-15.png)
 
 <br/>
 
 ### 우측 하단 'Finish' 버튼 클릭
-![image18](./images/240515-16.png)
+![image18](/mysql/images/240515-16.png)
 
 <br/>
 
 ### 우측 하단 'Next >' 버튼 클릭
-![image19](./images/240515-17.png)
+![image19](/mysql/images/240515-17.png)
 
 <br/>
 
 ### 우측 하단 'Finish' 버튼 클릭으로 MySQL 설치 완료!
-![image20](./images/240515-18.png)
+![image20](/mysql/images/240515-18.png)
