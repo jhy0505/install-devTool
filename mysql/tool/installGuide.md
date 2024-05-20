@@ -17,7 +17,7 @@
 
 <br/>
 
-### Windows (installer) 파일 다운로드
+### Community 버전의 Windows (installer) 파일 다운로드
 ![image1](/mysql/images/240520-1.png)
 
 <br/>
