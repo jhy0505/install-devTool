@@ -2,11 +2,6 @@
 
 <br/>
 
-## DBeaver 란
-### MySQL 데이터베이스를 시각적으로 관리하기 위한 GUI 도구
-
-<br/>
-
 ## 1. DBeaver 홈페이지 접속
 [DBeaver 다운로드 링크 (https://dbeaver.io/download/)](https://dbeaver.io/download/)
 
